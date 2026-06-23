@@ -45,5 +45,6 @@
 	"gap_infill_speed": "140",
 	"travel_speed": "400",
 	"only_one_wall_top": "1",
-	"only_one_wall_first_layer": "1"
+	"only_one_wall_first_layer": "1",
+	"notes": "quiet"
 }
