@@ -1,7 +1,7 @@
 {
 	"type": "process",
 	"name": "0.10mm STANDARD @VIRTU E3",
-	"inherits": "process_common_VIRTU E3",
+	"inherits": "process_STANDARD_VIRTU E3",
 	"from": "system",
 	"setting_id": "YhKounYUzB5FB9Em",
 	"instantiation": "true",
