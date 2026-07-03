@@ -28,5 +28,6 @@
 	"internal_solid_infill_speed": "350",
 	"top_surface_speed": "260",
 	"gap_infill_speed": "260",
-	"travel_speed": "600"
+	"travel_speed": "600",
+	"notes": "normal"
 }
