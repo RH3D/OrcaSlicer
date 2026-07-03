@@ -197,6 +197,30 @@
 		{
 			"name": "Generic TPU @E3NG v1.2S",
 			"sub_path": "filament/Generic TPU @E3NG v1.2S.json"
+		},
+		{
+			"name": "Generic ABS @VIRTU E3",
+			"sub_path": "filament/Generic ABS @VIRTU E3.json"
+		},
+		{
+			"name": "Generic ASA @VIRTU E3",
+			"sub_path": "filament/Generic ASA @VIRTU E3.json"
+		},
+		{
+			"name": "Generic PCCF @VIRTU E3",
+			"sub_path": "filament/Generic PCCF @VIRTU E3.json"
+		},
+		{
+			"name": "Generic PETG @VIRTU E3",
+			"sub_path": "filament/Generic PETG @VIRTU E3.json"
+		},
+		{
+			"name": "Generic PLA @VIRTU E3",
+			"sub_path": "filament/Generic PLA @VIRTU E3.json"
+		},
+		{
+			"name": "Generic TPU @VIRTU E3",
+			"sub_path": "filament/Generic TPU @VIRTU E3.json"
 		}
 	]
 }
