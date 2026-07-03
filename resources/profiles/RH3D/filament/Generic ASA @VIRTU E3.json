@@ -3,7 +3,7 @@
 	"name": "Generic ASA @VIRTU E3",
 	"inherits": "fdm_filament_asa",
 	"from": "system",
-	"setting_id": "LK5M8q58HY86l9aX",
+	"setting_id": "LK5M8q58HQ86l9aX",
 	"filament_id": "Generic ASA @VIRTU E3",
 	"instantiation": "true",
 	"compatible_printers": [
