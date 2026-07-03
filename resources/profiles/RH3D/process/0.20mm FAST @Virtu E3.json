@@ -1,6 +1,6 @@
 {
 	"type": "process",
-	"name": "0.20mm Fast @Virtu E3",
+	"name": "0.20mm FAST @Virtu E3",
 	"inherits": "process_common_Virtu E3",
 	"from": "system",
 	"setting_id": "S7z7EwSYYbjVWRp0",
