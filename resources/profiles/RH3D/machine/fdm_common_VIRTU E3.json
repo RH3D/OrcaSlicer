@@ -54,11 +54,11 @@
 	],
 	"printable_area": [
 		"0x0",
-		"232x0",
-		"232x232",
+		"230x0",
+		"230x232",
 		"0x232"
 	],
-	"printable_height": "235",
+	"printable_height": "232",
 	"printer_model": "VIRTU E3",
 	"printer_notes": [
 		"Design by RH3D"
