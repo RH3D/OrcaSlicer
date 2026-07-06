@@ -1,7 +1,7 @@
 {
 	"type": "process",
 	"name": "0.15mm STANDARD @E3NG v1.2S",
-	"inherits": "process_common_E3NG v1.2S",
+	"inherits": "process_STANDARD_E3NG v1.2S",
 	"from": "system",
 	"setting_id": "jYPd3BedSG1oG6S3",
 	"instantiation": "true",
@@ -12,6 +12,5 @@
 		"E3NG v1.2S - 0.3 nozzle",
 		"E3NG v1.2S - 0.4 nozzle",
 		"E3NG v1.2S - 0.5 nozzle"
-	],
-	"notes": "normal"
+	]
 }
