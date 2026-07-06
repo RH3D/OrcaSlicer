@@ -73,8 +73,16 @@
 			"sub_path": "process/fdm_process_common.json"
 		},
 		{
-			"name": "process_common_E3NG v1.2S",
-			"sub_path": "process/process_common_E3NG v1.2S.json"
+			"name": "process_SLOW_E3NG v1.2S",
+			"sub_path": "process/process_SLOW_E3NG v1.2S.json"
+		},
+		{
+			"name": "process_STANDARD_E3NG v1.2S",
+			"sub_path": "process/process_STANDARD_E3NG v1.2S.json"
+		},
+		{
+			"name": "process_FAST_E3NG v1.2S",
+			"sub_path": "process/process_FAST_E3NG v1.2S.json"
 		},
 		{
 			"name": "process_SLOW_VIRTU E3",
