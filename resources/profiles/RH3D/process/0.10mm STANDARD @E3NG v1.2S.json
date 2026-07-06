@@ -10,7 +10,7 @@
 	"compatible_printers": [
 		"E3NG v1.2S - 0.2 nozzle",
 		"E3NG v1.2S - 0.3 nozzle",
-		"E3NG v1.2S - 0.4 nozzle",
+		"E3NG v1.2S - 0.4 nozzle"
+	],
 	"notes": "normal"
-	]
 }
