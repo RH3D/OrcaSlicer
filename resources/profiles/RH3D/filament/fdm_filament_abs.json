@@ -30,7 +30,7 @@
 		"10"
 	],
 	"filament_max_volumetric_speed": [
-		"32"
+		"24"
 	],
 	"filament_type": [
 		"ABS"
@@ -76,9 +76,9 @@
 		"275"
 	],
 	"slow_down_min_speed": [
-		"10"
+		"20"
 	],
 	"slow_down_layer_time": [
-		"2"
+		"4"
 	]
 }
