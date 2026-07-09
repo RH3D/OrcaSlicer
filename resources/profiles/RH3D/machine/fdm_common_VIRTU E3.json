@@ -33,24 +33,24 @@
 		"35000"
 	],
 	"machine_max_acceleration_z": [
-		"500",
-		"500"
+		"2000",
+		"2000"
 	],
 	"machine_max_speed_e": [
 		"25",
 		"25"
 	],
 	"machine_max_speed_x": [
-		"400",
-		"400"
+		"900",
+		"900"
 	],
 	"machine_max_speed_y": [
-		"400",
-		"400"
+		"900",
+		"900"
 	],
 	"machine_max_speed_z": [
-		"12",
-		"12"
+		"400",
+		"400"
 	],
 	"printable_area": [
 		"0x0",
