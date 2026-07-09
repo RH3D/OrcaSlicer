@@ -24,6 +24,8 @@
 	"bridge_acceleration": "2500",
 	"sparse_infill_acceleration": "8000",
 	"internal_solid_infill_acceleration": "5000",
+	"accel_to_decel_enable": "false",
+	"accel_to_decel_factor": "100%",
 	"bridge_no_support": "0",
 	"draft_shield": "disabled",
 	"elefant_foot_compensation": "0.1",
