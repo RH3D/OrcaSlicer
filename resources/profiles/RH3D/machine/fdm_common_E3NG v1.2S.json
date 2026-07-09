@@ -41,12 +41,12 @@
 		"25"
 	],
 	"machine_max_speed_x": [
-		"400",
-		"400"
+		"600",
+		"600"
 	],
 	"machine_max_speed_y": [
-		"400",
-		"400"
+		"600",
+		"600"
 	],
 	"machine_max_speed_z": [
 		"12",
