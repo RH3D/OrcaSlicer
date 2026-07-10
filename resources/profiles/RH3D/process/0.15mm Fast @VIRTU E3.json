@@ -3,7 +3,7 @@
 	"name": "0.15mm Fast @VIRTU E3",
 	"inherits": "process_Fast_VIRTU E3",
 	"from": "system",
-	"setting_id": "T6fJmBVIwI1yHJUq",
+	"setting_id": "G0HkboSFDavmOAU4",
 	"instantiation": "true",
 	"layer_height": "0.15",
 	"initial_layer_print_height": "0.2",
