@@ -3,7 +3,7 @@
 	"name": "Generic PETG @VIRTU E3",
 	"inherits": "fdm_filament_petg",
 	"from": "system",
-	"setting_id": "IS3z7f5wnjqvv8sC",
+	"setting_id": "OAN1Ozk75r0ODvVw",
 	"filament_id": "Generic PETG @VIRTU E3",
 	"instantiation": "true",
 	"compatible_printers": [
