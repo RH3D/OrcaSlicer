@@ -1,6 +1,6 @@
 {
 	"type": "process",
-	"name": "process_STANDARD_E3NG v1.2S",
+	"name": "process_Standard_E3NG v1.2S",
 	"inherits": "fdm_process_common",
 	"from": "system",
 	"instantiation": "false",
