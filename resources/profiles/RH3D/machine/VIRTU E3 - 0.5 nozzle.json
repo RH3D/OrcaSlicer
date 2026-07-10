@@ -6,7 +6,7 @@
 	"from": "system",
 	"setting_id": "iMnENFt2zw6UTcbM",
 	"instantiation": "true",
-	"default_print_profile": "0.20mm STANDARD @VIRTU E3",
+	"default_print_profile": "0.20mm Standard @VIRTU E3",
 	"nozzle_diameter": [
 		"0.5"
 	],
