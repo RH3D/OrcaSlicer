@@ -4,7 +4,7 @@
 	"printer_model": "VIRTU E3",
 	"inherits": "fdm_common_VIRTU E3",
 	"from": "system",
-	"setting_id": "UQ67wIWTbLiUiPoy",
+	"setting_id": "3PjlEiZxmdLJjoGw",
 	"instantiation": "true",
 	"default_print_profile": "0.15mm STANDARD @VIRTU E3",
 	"nozzle_diameter": [
