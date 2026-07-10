@@ -3,7 +3,7 @@
 	"name": "Generic PLA @VIRTU E3",
 	"inherits": "fdm_filament_pla",
 	"from": "system",
-	"setting_id": "b1tuMVA0Hh27wYQD",
+	"setting_id": "DgSFTqNWfJEp0w9f",
 	"filament_id": "Generic PLA @VIRTU E3",
 	"instantiation": "true",
 	"compatible_printers": [
