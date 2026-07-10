@@ -3,7 +3,7 @@
 	"name": "0.10mm STANDARD @VIRTU E3",
 	"inherits": "process_STANDARD_VIRTU E3",
 	"from": "system",
-	"setting_id": "YhKounYUzB5FB9Em",
+	"setting_id": "YJEtp3JZKfWnveTr",
 	"instantiation": "true",
 	"layer_height": "0.1",
 	"initial_layer_print_height": "0.15",
