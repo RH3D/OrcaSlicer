@@ -1,7 +1,7 @@
 {
 	"type": "process",
-	"name": "0.10mm SLOW @E3NG v1.2S",
-	"inherits": "process_SLOW_E3NG v1.2S",
+	"name": "0.10mm Slow @E3NG v1.2S",
+	"inherits": "process_Slow_E3NG v1.2S",
 	"from": "system",
 	"setting_id": "pXW3093XSZWInLaZ",
 	"instantiation": "true",
