@@ -3,7 +3,7 @@
 	"name": "0.20mm Slow @VIRTU E3",
 	"inherits": "process_Slow_VIRTU E3",
 	"from": "system",
-	"setting_id": "nOFbIdDTjUEedz8A",
+	"setting_id": "NlGjHdIRQnp9PCfc",
 	"instantiation": "true",
 	"layer_height": "0.2",
 	"initial_layer_print_height": "0.2",
