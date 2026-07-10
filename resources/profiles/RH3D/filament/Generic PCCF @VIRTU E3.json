@@ -3,7 +3,7 @@
 	"name": "Generic PCCF @VIRTU E3",
 	"inherits": "fdm_filament_pccf",
 	"from": "system",
-	"setting_id": "fnnja8VlKHWpuOaG",
+	"setting_id": "5byL7KQPKyybDAgQ",
 	"filament_id": "Generic PCCF @VIRTU E3",
 	"instantiation": "true",
 	"compatible_printers": [
