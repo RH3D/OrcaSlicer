@@ -1,6 +1,6 @@
 {
 	"type": "process",
-	"name": "process_FAST_VIRTU E3",
+	"name": "process_Fast_VIRTU E3",
 	"inherits": "fdm_process_common",
 	"from": "system",
 	"instantiation": "false",
