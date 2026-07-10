@@ -3,7 +3,7 @@
 	"name": "Generic ABS @VIRTU E3",
 	"inherits": "fdm_filament_abs",
 	"from": "system",
-	"setting_id": "VNx6rdTN7OIIXDpC",
+	"setting_id": "AULhQhVApTASqF2p",
 	"filament_id": "Generic ABS @VIRTU E3",
 	"instantiation": "true",
 	"compatible_printers": [
