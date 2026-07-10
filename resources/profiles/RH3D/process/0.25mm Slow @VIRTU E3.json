@@ -1,7 +1,7 @@
 {
 	"type": "process",
-	"name": "0.25mm SLOW @VIRTU E3",
-	"inherits": "process_SLOW_VIRTU E3",
+	"name": "0.25mm Slow @VIRTU E3",
+	"inherits": "process_Slow_VIRTU E3",
 	"from": "system",
 	"setting_id": "RA9qaNgCeYtT68zs",
 	"instantiation": "true",
