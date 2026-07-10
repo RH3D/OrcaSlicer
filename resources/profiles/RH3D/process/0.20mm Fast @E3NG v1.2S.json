@@ -1,7 +1,7 @@
 {
 	"type": "process",
-	"name": "0.20mm FAST @E3NG v1.2S",
-	"inherits": "process_FAST_E3NG v1.2S",
+	"name": "0.20mm Fast @E3NG v1.2S",
+	"inherits": "process_Fast_E3NG v1.2S",
 	"from": "system",
 	"setting_id": "G59YdLu7x5FD3NGj",
 	"instantiation": "true",
