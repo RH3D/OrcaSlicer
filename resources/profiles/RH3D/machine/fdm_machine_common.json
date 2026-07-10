@@ -5,7 +5,7 @@
 	"instantiation": "false",
 	"printer_structure": "corexy",
 	"gcode_flavor": "klipper",
-	"machine_start_gcode": "M104 S0 ; Stops OrcaSlicer from sending temp waits separately\nM140 S0\nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] MODE=[notes]\n; Start of actual GCode for the print",
+	"machine_start_gcode": "M104 S0 ; Stops OrcaSlicer from sending temp waits separately\nM140 S0\nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] PROFILE=[notes]\n; Start of actual GCode for the print",
 	"machine_end_gcode": "PRINT_END",
 	"extruder_colour": "#02aba2",
 	"extruder_offset": "0x0",
