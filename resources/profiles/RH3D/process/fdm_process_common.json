@@ -45,7 +45,7 @@
 	"reduce_infill_retraction": "1",
 	"filename_format": "{input_filename_base}_{filament_type[0]}_{print_time}_{printer_model}.gcode",
 	"detect_overhang_wall": "1",
-	"slowdown_for_curled_perimeters": "1",
+	"slowdown_for_curled_perimeters": "0",
 	"overhang_1_4_speed": "0",
 	"overhang_2_4_speed": "40",
 	"overhang_3_4_speed": "25",
