@@ -3,7 +3,7 @@
 	"name": "0.20mm FAST @E3NG v1.2S",
 	"inherits": "process_FAST_E3NG v1.2S",
 	"from": "system",
-	"setting_id": "S7z7EwSYYbjVWRK0",
+	"setting_id": "G59YdLu7x5FD3NGj",
 	"instantiation": "true",
 	"layer_height": "0.2",
 	"initial_layer_print_height": "0.2",
