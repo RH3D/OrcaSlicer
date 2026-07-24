@@ -186,7 +186,7 @@ TroubleshootDialog::TroubleshootDialog()
         Fit();
     });
 
-    auto link_wiki = new HyperLink(this, _L("Wiki Guide"));
+    auto link_wiki = new HyperLink(this, _L("Wiki Guide"), "https://www.orcaslicer.com/wiki/troubleshoot_center");
 
     // RIGHT SIZER //////////////////////
 
@@ -807,7 +807,11 @@ wxString TroubleshootDialog::GetRAMinfo()
 wxString TroubleshootDialog::GetGPUinfo()
 {
     auto gl_info = OpenGLManager::get_gl_info();
-    return gl_info.get_renderer()+ "  GLSL:" +  gl_info.get_glsl_version();
+#if !SLIC3R_OPENGL_ES
+    return gl_info.get_renderer() + "  GLSL:" + gl_info.get_glsl_version() + (gl_info.is_core_profile() ? "  Core" : "  Compatibility");
+#else
+    return gl_info.get_renderer() + "  GLSL:" + gl_info.get_glsl_version() + "  ES";
+#endif
 }
 
 wxString TroubleshootDialog::GetMONinfo()
