@@ -4,7 +4,7 @@
 	"inherits": "fdm_filament_pccf",
 	"from": "system",
 	"setting_id": "5byL7KQPKyybDAgQ",
-	"filament_id": "Generic PCCF @VIRTU E3",
+	"filament_id": "OFC5f4Ay",
 	"instantiation": "true",
 	"compatible_printers": [
 		"VIRTU E3 - 0.5 nozzle",

@@ -4,7 +4,7 @@
 	"inherits": "fdm_filament_petg",
 	"from": "system",
 	"setting_id": "OAN1Ozk75r0ODvVw",
-	"filament_id": "Generic PETG @VIRTU E3",
+	"filament_id": "OFYPdQJh",
 	"instantiation": "true",
 	"compatible_printers": [
 		"VIRTU E3 - 0.2 nozzle",

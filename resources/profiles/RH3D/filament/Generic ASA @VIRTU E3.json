@@ -4,7 +4,7 @@
 	"inherits": "fdm_filament_asa",
 	"from": "system",
 	"setting_id": "yJa8PC5f8c4uYgny",
-	"filament_id": "Generic ASA @VIRTU E3",
+	"filament_id": "OFLPAxz3",
 	"instantiation": "true",
 	"compatible_printers": [
 		"VIRTU E3 - 0.2 nozzle",

@@ -4,7 +4,7 @@
 	"inherits": "fdm_filament_abs",
 	"from": "system",
 	"setting_id": "AULhQhVApTASqF2p",
-	"filament_id": "Generic ABS @VIRTU E3",
+	"filament_id": "OFY9muEs",
 	"instantiation": "true",
 	"compatible_printers": [
 		"VIRTU E3 - 0.2 nozzle",
